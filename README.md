@@ -9,7 +9,7 @@
 ├── outputs/              # Gráficos gerados
 ├── requirements.txt      # Dependências do projeto
 └── README.md             # Documentação principal do repositório
-
+```
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
